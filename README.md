@@ -11,7 +11,7 @@
 |  | Outil | Ce que ça fait |
 |--|-------|----------------|
 | 01 | **[Nexus](https://nexus.borowiec.ch)** | Tout le dossier d'expédition d'une commande — six documents d'export et de douane, et le plan de chargement du camion en 3D (palettes CHEP/Euro/US, Incoterms 2020, codes HS). |
-| 02 | **[Box Finder](https://boxfinder.borowiec.ch)** | Quelle boîte choisir pour expédier quoi, avec la vue 3D du placement du produit. |
+| 02 | **[Box Finder](https://boxfinder.borowiec.ch)** · [source](https://github.com/Makilauu/box-finder) | Quelle boîte choisir pour expédier quoi, avec la vue 3D du placement du produit. |
 | 03 | **Customs Emballiso** | Outil douanier interne (Emballiso) — génère la liasse de documents d'export en PDF. *Interne — démo sur demande.* |
 | 04 | **CIMSA Refurbishment Report** | Reporting d'atelier en temps réel entre un 3PL et Emballiso US. *Interne — démo sur demande.* |
 
